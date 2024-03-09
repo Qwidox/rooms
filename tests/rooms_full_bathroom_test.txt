@@ -1,0 +1,50 @@
++-----------+------------------------------------+
+|           |                                    |
+| (closet)  |                                    |
+|           |                                    |
+|           |         (sleeping room)            |
+|           |                                    |
+|           |                                    |
++-----------+                                    |
+|           |                                    |
+|           |                                    |
+|           |                                    |
+|           +--------------+---------------------+
+|                          |                     |
+|                          |                     |
+|                          |    (office)         |
+|                          |                     |
++--------------+           |                     |
+|              |           |                     |
+| (toilet)     |           |                     |
+|              |           |                     |
+|              |           |                     |
++--------------+           +---------------------+
+|WWWWWWWWWWWWWW|           |                     |
+|WWWWWWWWWWWWWW|           |                     |
+|WWWWWWWWWWWWWW|           |                     |
+|P(bathroom)WWW|           |      (kitchen)      |
+|WWWWWWWWWWWWWW|           |                     |
+|WWWWWWWWWWWWWW|           |                     |
+|WWWWWWWWWWWWWW|           |                     |
+|CCCCCCCCCCCCCC+           |                     |
+|PPPPPPPPPPPPP/            +---------------------+
+|SSSSSSSSSSSS/                                   |
+|SSSSSSSSSSS/                                    |
+|PPPPPPPPPP/                                     |
++---------+                                      |
+|                                                |
+|                                                |
+|                (living room)                   |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
++--------------------------+---------------------+
+                           |                     |
+                           |                     |
+                           |  (balcony)          |
+                           |                     |
+                           |                     |
+                           +---------------------+
