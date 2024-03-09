@@ -1,3 +1,4 @@
+# @2024
 from collections import defaultdict
 from collections.abc import Generator
 
